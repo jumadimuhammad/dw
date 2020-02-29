@@ -1,0 +1,51 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+nav {
+    height: 30px;
+    background-color: coral;
+    padding: 3px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+    padding: 3px;
+
+}
+
+button {
+    padding: 2px;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.box {
+    border: 1px solid gainsboro;
+    padding: 10px;
+    float: left;
+    width: 10em;
+    height: 15em;
+    margin: 10px;
+}
+
+section {
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img {
+    width: 120px;
+}
+
+.content-box {
+    min-height: 20em;
+    color: burlywood;
+    background-color: crimson;
+}
